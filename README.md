@@ -1,0 +1,1 @@
+# osticket_server_configuration
